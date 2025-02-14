@@ -1,4 +1,4 @@
 # MayurZope
 This is my first git repository.
 <br></br>
-Author - Mayur Zope
+Author - Mayur U Zope
