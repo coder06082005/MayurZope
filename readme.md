@@ -12,13 +12,13 @@
 - 🔭 Currently working on **CodeFlow AI**, an AI-powered full-stack project.
 - 🌱 Learning **DSA in C++**, **Full Stack Web Development** (React, Next.js), and **AI/ML Concepts**.
 - 👀 Preparing for **Internships and Placements** by sharpening problem-solving skills.
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **mayur.zope@nmiet.edu.in**
 
 ---
 
 ## 🛠️ **Tech Stack:**
 ### 👨‍💻 **Programming Languages:**
-- C++ | Python | JavaScript
+- C++ | Python | JavaScript | Java
 
 ### 🧠 **AI/ML & DSA:**
 - Data Structures & Algorithms (DSA)
